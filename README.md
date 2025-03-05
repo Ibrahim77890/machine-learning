@@ -18,6 +18,11 @@ keywords: {Task analysis;Training;Data models;Peer-to-peer computing;Adaptation 
 L. Liu, Y. Hu, Y. Zhao, X. Zhang, Y. Ma and G. Chang, "A Novel Federated Learning System with Privacy Protection and Blockchain Consensus Incentive Mechanisms in Cloud-Edge Collaboration Scenarios," 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Kuching, Malaysia, 2024, pp. 3111-3118, doi: 10.1109/SMC54092.2024.10831241. keywords: {Data privacy;Federated learning;Voting;Consensus algorithm;Throughput;Data models;Consensus protocol;Protection;Faces;Convergence;Consensus Algorithms;Federated Learning;Blockchain;Privacy Protection},
 
 
+Y. Shi, H. Yu and C. Leung, "Towards Fairness-Aware Federated Learning," in IEEE Transactions on Neural Networks and Learning Systems, vol. 35, no. 9, pp. 11922-11938, Sept. 2024, doi: 10.1109/TNNLS.2023.3263594.
+keywords: {Training;Servers;Data models;Computational modeling;Task analysis;Taxonomy;Optimization;Client selection;data valuation;fairness;federated learning (FL);incentive mechanism},
+
+
+
 Now tell me are these related to some extent and also as a beginner, is there any research gap which i can fulfil on either side, implementation or research?
 
 All these papers are indeed related as they focus on enhancing federated learning through mechanisms that promote fairness, trust, security, and efficient collaboration. They all tackle challenges such as incentive design, reputation systems, consensus protocols (often with blockchain integration), and privacy protection in federated environments. Here’s a breakdown:
