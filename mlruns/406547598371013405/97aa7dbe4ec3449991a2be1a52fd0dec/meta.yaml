@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/406547598371013405/97aa7dbe4ec3449991a2be1a52fd0dec/artifacts
+end_time: 1746981276727
+entry_point_name: ''
+experiment_id: '406547598371013405'
+lifecycle_stage: active
+run_id: 97aa7dbe4ec3449991a2be1a52fd0dec
+run_name: dapper-yak-441
+run_uuid: 97aa7dbe4ec3449991a2be1a52fd0dec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746981268116
+status: 3
+tags: []
+user_id: M Affan Amir

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/406547598371013405/832d6bba08644399a9d1f0e2bcb12dae/artifacts
+end_time: 1746896569331
+entry_point_name: ''
+experiment_id: '406547598371013405'
+lifecycle_stage: active
+run_id: 832d6bba08644399a9d1f0e2bcb12dae
+run_name: clean-snake-343
+run_uuid: 832d6bba08644399a9d1f0e2bcb12dae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746896554170
+status: 3
+tags: []
+user_id: M Affan Amir

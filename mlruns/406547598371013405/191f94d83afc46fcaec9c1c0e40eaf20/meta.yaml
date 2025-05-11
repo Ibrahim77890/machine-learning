@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/406547598371013405/191f94d83afc46fcaec9c1c0e40eaf20/artifacts
+end_time: 1746859953128
+entry_point_name: ''
+experiment_id: '406547598371013405'
+lifecycle_stage: active
+run_id: 191f94d83afc46fcaec9c1c0e40eaf20
+run_name: grandiose-dog-350
+run_uuid: 191f94d83afc46fcaec9c1c0e40eaf20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746859934172
+status: 3
+tags: []
+user_id: M Affan Amir

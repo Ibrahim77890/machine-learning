@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/406547598371013405/73f86a1ef34e44c9bd3fbcefee642e87/artifacts
+deleted_time: 1746858592151
+end_time: 1746816022917
+entry_point_name: ''
+experiment_id: '406547598371013405'
+lifecycle_stage: deleted
+run_id: 73f86a1ef34e44c9bd3fbcefee642e87
+run_name: suave-squid-203
+run_uuid: 73f86a1ef34e44c9bd3fbcefee642e87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746816022786
+status: 4
+tags: []
+user_id: M Affan Amir

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/406547598371013405/31090792f5604f84a23bed05bb93b439/artifacts
+end_time: 1746859963266
+entry_point_name: ''
+experiment_id: '406547598371013405'
+lifecycle_stage: active
+run_id: 31090792f5604f84a23bed05bb93b439
+run_name: adaptable-yak-390
+run_uuid: 31090792f5604f84a23bed05bb93b439
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746859955731
+status: 3
+tags: []
+user_id: M Affan Amir

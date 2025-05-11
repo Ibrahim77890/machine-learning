@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/406547598371013405/bfba47fb67b94ba582b07365817ef8e5/artifacts
+end_time: 1746967388708
+entry_point_name: ''
+experiment_id: '406547598371013405'
+lifecycle_stage: active
+run_id: bfba47fb67b94ba582b07365817ef8e5
+run_name: intelligent-wren-782
+run_uuid: bfba47fb67b94ba582b07365817ef8e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746967380034
+status: 3
+tags: []
+user_id: M Affan Amir

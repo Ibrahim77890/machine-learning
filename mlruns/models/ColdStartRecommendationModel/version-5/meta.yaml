@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1746981276700
+current_stage: None
+description: ''
+last_updated_timestamp: 1746981276700
+name: ColdStartRecommendationModel
+run_id: 97aa7dbe4ec3449991a2be1a52fd0dec
+run_link: ''
+source: mlflow-artifacts:/406547598371013405/97aa7dbe4ec3449991a2be1a52fd0dec/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/406547598371013405/97aa7dbe4ec3449991a2be1a52fd0dec/artifacts/model
+user_id: null
+version: 5

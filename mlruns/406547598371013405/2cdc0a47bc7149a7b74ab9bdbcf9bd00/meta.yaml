@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/406547598371013405/2cdc0a47bc7149a7b74ab9bdbcf9bd00/artifacts
+end_time: 1746861703346
+entry_point_name: ''
+experiment_id: '406547598371013405'
+lifecycle_stage: active
+run_id: 2cdc0a47bc7149a7b74ab9bdbcf9bd00
+run_name: auspicious-owl-536
+run_uuid: 2cdc0a47bc7149a7b74ab9bdbcf9bd00
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746861681225
+status: 3
+tags: []
+user_id: M Affan Amir
